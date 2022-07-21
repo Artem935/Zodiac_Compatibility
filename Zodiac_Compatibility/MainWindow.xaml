@@ -26,7 +26,7 @@
                 Click="Button_Click_Settings" 
                 x:Name="Full" 
                 Grid.Column="1">
-                <Image Source="D:\Уроки по C#\Zodiac_Compatibility\Resources\Setting.png" 
+                <Image Source="Resources\Setting.png" 
                 Margin="5"/>
             </Button>
             <Button 
